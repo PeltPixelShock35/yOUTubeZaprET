@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: peltpixelshock35.github.io
-
-Sitemap: https://peltpixelshock35.github.io/yOUTubeZaprET/sitemap.xml
+Sitemap: https://github.com/PeltPixelShock35/yOUTubeZaprET
