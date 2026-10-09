@@ -1,10 +1,10 @@
 # yOUTubeZaprET
 
-yOUTubeZaprET снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+Актуальная версия с поддержкой YouTube в текущих условиях. Надежнее, быстрее, стабильнее
 
 yOUTubeZaprET снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/PeltPixelShock35/yOUTubeZaprET/releases/latest
-Код: https://github.com/PeltPixelShock35/yOUTubeZaprET
+Релиз: https://github.com/peltpixelshock35/yOUTubeZaprET/releases/latest
+Код: https://github.com/peltpixelshock35/yOUTubeZaprET
 Основа: https://github.com/bol-van/zapret
-Страница: https://peltpixelshock35.github.io/yOUTubeZaprET/
+Страница: https://github.com/peltpixelshock35/yOUTubeZaprET
